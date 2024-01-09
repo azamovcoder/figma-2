@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.head-img{
+    width: 100%;
+    height: 500px;
+
+}
+.head-about{
+    width: 100%;
+    height:304px ;
+    background-color: #A9AE8D;
+    padding-top:auto ;
+}
+.head-text{
+    color: white;
+    font-size: 18px;
+    line-height: 16px;
+    padding-top: 70px;
+    text-align: center;
+    
+}
+.head-title{
+    color: white;
+    font-size: 33px;
+    line-height: 64px;
+    padding-top: 15px;
+    text-align: center;
+}
+.head-btn{
+    padding-top: 28px;
+    padding-left: 700px;
+}
+.btn-shop{
+
+    text-transform:uppercase ;
+    color: white;
+    background-color: #B45F4D;;
+    width: 100px; 
+    height: 36px;
+    border: none;
+    
+}
+
+
+
+.bottle-section{
+    text-align: center;
+    width: 100%;
+    height: 835px;;
+    background-color: #F6F4EC;
+}
+.bottles-title{
+    display: inline-block;
+    color: #B45F4D;
+    padding-top:39px;
+    text-align: center;
+    font-size: 23px;
+    text-transform: capitalize;
+}
+.bottle {
+    text-align: center;
+    padding-top: 57px;
+    padding-left: 94px;
+    padding-right: 94px;
+    width: 300px;
+    height: 650px;
+    display: inline-block;
+}
+.bottle-image{
+    display: inline-block;
+    width: 100%;
+    height: 510px;
+   
+}
+.bottle-title{
+    color: #B45F4D;
+text-align: left;
+padding-top: 15px;
+
+}
+
+.bottle-cost{
+    color: #B45F4D;
+    text-align: left;
+    padding-top : 15px;
+
+}
+.bottle-left{
+    text-align: left;
+    padding-top: 15px;
+}
+.bottle-right{
+    text-align: right;
+    padding: 15px;
+}
+
+
+
+.section-2{
+    padding-left: 130px;
+    
+}
+
+.section-img{
+    padding-left: 400px;
+    width: 1200px;
+    height: 407.547px;
+    padding:50px 130px;
+}
+.section-3{
+    text-align: center;
+    width: 100%;
+    height: 914px;
+    background: #F1D3B9;
+}
+.section-3--photo{
+
+    padding-top: 97px;
+    padding-right: 120px;  
+    text-align: center;
+    display: inline-block;
+    width: 500px;
+    height: 750px;
+}
+.section-3-div{
+    display: inline-block;
+    width: 500px;
+    height: 750px;
+    background-color: white;
+}
+.section-4{
+    width: 100%;
+    height: 400px;
+}
+
+.section-4--title{
+    text-align: center;
+    padding-top: 30px;
+    text-transform: capitalize;
+    font-size: 23px;
+}
+.photo{
+    
+    display: inline-block;
+
+}
+.photo-4{
+    padding-left: 70px;
+    padding-top: 50px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.section-5{
+    width: 100%;
+    height: auto;
+}
